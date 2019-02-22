@@ -21,20 +21,13 @@ The creative department have supplied a simple initial design which the client h
 ## Dev Requirements
 
 1. The back-end developers are currently working on the API for this data, so for the time being, You can use dummy motorhome data that will drive the results (`/data/results.json`).
-
 2. On initial load, render all results.
-
 3. For the first release, The user should be able to filter by:
-
- 3.1. Transmission Type (Manual, Automatic or both)
-
- 3.2. Vehicle Type (Motorhome, Campervan or both)
-
+    1. Transmission Type (Manual, Automatic or both)
+    2. Vehicle Type (Motorhome, Campervan or both)
 4. When filter selections are changed by the user, the results should update to only show motorhomes that match the selected filter(s).
-
-4. Create all the HTML and CSS for the responsive UI. Note that it doesn't have to be pixel perfect! Time is limited, so focus on what you feel would be 'must have' functionality.
-
-5. While we are working on sourcing correct images for each motorhome, please use the images found in `/assets/images`. Note that when the API is complete, a URL for each image will be present in the JSON.
+5. Create all the HTML and CSS for the responsive UI. Note that it doesn't have to be pixel perfect! Time is limited, so focus on what you feel would be 'must have' functionality.
+6. While we are working on sourcing correct images for each motorhome, please use the images found in `/assets/images`. Note that when the API is complete, a URL for each image will be present in the JSON.
 
 ## Submission
 
