@@ -16,7 +16,13 @@ One of our clients have asked us to begin development on a new simple, standalon
 
 We will be presenting our progress to the client soon so we have currently allocated for 2 hours of development time to get something up and running. Your challenge is to produce the HTML, CSS and JS needed for the component to be both functional and presentable. Should the client like it, the development team will continue to build upon the tool to add additional functionality and UI enhancements.
 
-The creative department have supplied a simple initial design which the client has approved so we're ready to go. You can find these in `/designs`. **Note:** The designs have been provided as .psd files. If you do not have photoshop then don't worry! .jpg versions have been included and a supporting styleguide can be found in `/designs/styleguide.jpg`.
+## Designs
+
+The creative department have supplied a simple initial design which the client has approved so we're ready to go. You can find these in `/designs`.
+
+The designs have been provided as .psd files. If you do not have photoshop then don't worry! .jpg versions have been included and a supporting styleguide can be found in `/designs/styleguide.jpg`.
+
+**Hint:** Don't worry too much about being pixel perfect, neatness and consistency is key.
 
 ## Dev Requirements
 
