@@ -1,0 +1,90 @@
+[
+  {
+    "modelName": "Select 122",
+    "vehicleType": "Campervan",
+    "fixedBed": false,
+    "berths": 2,
+    "id": 9,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Select 164",
+    "vehicleType": "Campervan",
+    "fixedBed": true,
+    "berths": 2,
+    "id": 1,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Select 184",
+    "vehicleType": "Campervan",
+    "fixedBed": false,
+    "berths": 4,
+    "id": 2,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Escape 664",
+    "vehicleType": "Motorhome",
+    "fixedBed": true,
+    "berths": 4,
+    "id": 3,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Escape 684",
+    "vehicleType": "Motorhome",
+    "fixedBed": false,
+    "berths": 5,
+    "id": 4,
+    "transmissionType": "Automatic"
+  },
+  {
+    "modelName": "Escape 685",
+    "vehicleType": "Motorhome",
+    "fixedBed": false,
+    "berths": 5,
+    "id": 5,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Escape 685",
+    "vehicleType": "Motorhome",
+    "fixedBed": false,
+    "berths": 5,
+    "id": 5,
+    "transmissionType": "Automatic"
+  },
+  {
+    "modelName": "Escape 694",
+    "vehicleType": "Motorhome",
+    "fixedBed": true,
+    "berths": 4,
+    "id": 6,
+    "transmissionType": "Manual"
+  },
+  {
+    "modelName": "Escape 694",
+    "vehicleType": "Motorhome",
+    "fixedBed": true,
+    "berths": 4,
+    "id": 6,
+    "transmissionType": "Automatic"
+  },
+  {
+    "modelName": "Escape 695",
+    "vehicleType": "Motorhome",
+    "fixedBed": true,
+    "berths": 5,
+    "id": 8,
+    "transmissionType": "Automatic"
+  },
+  {
+    "modelName": "Escape 612",
+    "vehicleType": "Motorhome",
+    "fixedBed": false,
+    "berths": 2,
+    "id": 10,
+    "transmissionType": "Manual"
+  }
+]
